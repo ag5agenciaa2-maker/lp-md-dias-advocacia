@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv \"assets/WhatsApp Image 2026-03-20 at 14.24.42.webp\" \"assets/md-advocacia-escritorio-parede-arte-juridica.webp\")",
+      "Bash(mv \"assets/WhatsApp Image 2026-03-20 at 14.24.42 \\(1\\).webp\" \"assets/md-advocacia-escritorio-mesa-cimento-dourado.webp\")",
+      "Bash(mv \"assets/WhatsApp Image 2026-03-20 at 14.24.43.webp\" \"assets/md-advocacia-porta-sala-913-absolutto.webp\")",
+      "Bash(mv \"assets/WhatsApp Image 2026-03-20 at 14.24.43 \\(1\\).webp\" \"assets/absolutto-business-towers-elevador-marmore.webp\")",
+      "Bash(mv \"assets/WhatsApp Image 2026-03-20 at 14.24.43 \\(2\\).webp\" \"assets/absolutto-business-towers-hall-elevadores.webp\")"
+    ]
+  }
+}
